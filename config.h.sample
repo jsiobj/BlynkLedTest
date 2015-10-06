@@ -1,0 +1,6 @@
+#define WLAN_SSID      "yourwifisid"
+#define WLAN_PASS      "yourwifikey"
+#define WLAN_SECURITY  WLAN_SEC_WPA2 
+
+char auth[] = "yourblynkappkey";
+
